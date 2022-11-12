@@ -1,0 +1,9 @@
+.action {display: none;}
+
+table {text-align: center;}
+table tr th {text-align: center; text-transform: uppercase;}
+
+#font {font-size: 40px;}
+
+#show { text-align: center; }
+@page { size: A4 landscape; }
